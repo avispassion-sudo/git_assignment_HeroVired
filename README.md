@@ -21,5 +21,5 @@ This project was developed through multiple Git branches, following a proper Git
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
